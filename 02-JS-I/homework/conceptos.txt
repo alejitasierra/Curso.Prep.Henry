@@ -1,0 +1,17 @@
+* Variables: 
+Es una cajita donde almacenamos algo y le damos un nombre y un valor. 
+
+* Strings: 
+Es un tipo de dato, una cadena de texto.
+
+* Declaraciones `if`: Son como condifiones, para verificar si un dato es verdadero. 
+
+* Valores booleanos (`true`, `false`): 
+Es un tipo de dato que significa activar o desactivar, verdadero o falso. 
+
+* Funciones (argumentos, `return`): 
+Es el conjunto de acciones que le decimos a las variables hagan o cumplan para que nos arrojen un dato. 
+El argumento son los datos que damos apra ejecutar algo y el retunr es el resultado de la funcion. 
+
+* Valores booleanos (`true`, `false`): 
+Es un tipo de valor donde especificamos si es verdadero o es falso, si esta activo o esta desactivado. 
