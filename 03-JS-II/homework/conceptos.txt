@@ -1,0 +1,5 @@
+For: es un bucle, sirve para repetir una instrucción.
+
+&&: sirve para operar boleanos y significa y (and)
+||: sirve para operar boleanos y significa o (or) 
+!: sirve para operar boleanos y significa no (not)
