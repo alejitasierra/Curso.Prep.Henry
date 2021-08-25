@@ -1,0 +1,6 @@
+Funciones Callback: Es cuando en una función usamos como parametro otra función. 
+estas se nombran mas no invocan cuando se pasan como parametros.  
+
+El callback usa lo que le pasamos y lo utiliza en la funcion como el parametro a utilizar.
+
+array.prototype.forEach : Se ejecuta por cada elemento del array. 
