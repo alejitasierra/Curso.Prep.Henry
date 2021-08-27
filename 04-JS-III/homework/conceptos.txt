@@ -1,0 +1,5 @@
+Arrays: Son una list de elementos ordenados. 
+
+push(): agrega un elemento en la ultima posición.
+
+pop(): saca el elemento de la lista y lo muestra. 
